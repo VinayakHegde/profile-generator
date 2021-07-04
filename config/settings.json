@@ -1,0 +1,6 @@
+{
+  "population": 10,
+  "destination": "out/users.json",
+  "ageGroup": {"min": 18, "max": 50},
+  "genderGroup": ["Male", "Female", "Trans"]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "profile-generator",
+  "version": "1.0.0",
+  "description": "Random profile generator",
+  "main": "index.js",
+  "author": "Vinayak Hegde",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chance": "^1.1.7"
+  }
+}
